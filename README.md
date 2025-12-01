@@ -23,13 +23,11 @@
 
 ## 🏆 Proyectos Destacados
 
-Aquí están mis trabajos principales. Haz clic en el nombre para ver el código o en "Demo" para ver la web funcionando.
+Aquí están mis trabajos principales. Haz clic en el enlace para cambiar de rama donde veras los proyectos relacionados 
 
-### 1. [Nombre del Proyecto 1]
-> **Descripción rápida:** Una aplicación que permite a los usuarios hacer X cosa para solucionar Y problema.
-* **Tech Stack:** React, Firebase, Tailwind CSS.
-* **Lo que aprendí:** Gestión de estado y autenticación de usuarios.
-* 📂 [Ver Código](link-a-tu-repo) | 🌐 [Ver Demo / Deploy](link-a-la-web)
+### 1. Certificados Generales (IA, Idiomas, Cursos...)
+> **Descripción rápida:** Aqui dejo mis certificados conseguidos.
+* 📂 [Ver otra Rama](https://github.com/asierllv05/Proyectos-Personales-/tree/Certificados) | 🌐 [Ver en la Web](link-a-la-web)
 
 ### 2. [Nombre del Proyecto 2]
 > **Descripción rápida:** Script de automatización para organizar archivos.
