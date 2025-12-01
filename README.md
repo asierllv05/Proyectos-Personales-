@@ -29,17 +29,15 @@ Aquí están mis trabajos principales. Haz clic en el enlace para cambiar de ram
 > **Descripción rápida:** Aqui dejo mis certificados conseguidos.
 * 📂 [Ver otra Rama](https://github.com/asierllv05/Proyectos-Personales-/tree/Certificados) | 🌐 [Ver en la Web](link-a-la-web)
 
-### 2. [Nombre del Proyecto 2]
-> **Descripción rápida:** Script de automatización para organizar archivos.
-* **Tech Stack:** Python, Pandas.
-* **Lo que aprendí:** Manipulación de archivos y scripts.
-* 📂 [Ver Código](link-a-tu-repo)
+### 2. Programación
+> **Descripción rápida:** Archivos realizados en distintos lenguajes de Programación
+* 📂 [Ver otra Rama](link-a-tu-repo) | 🌐 [Ver en la Web](link-a-la-web)
 
 ### 3. [Nombre del Proyecto 3]
 > **Descripción rápida:** Clon de la página de inicio de Netflix.
 * **Tech Stack:** HTML, CSS puro.
 * **Lo que aprendí:** Flexbox, Grid y diseño responsivo.
-* 📂 [Ver Código](link-a-tu-repo) | 🌐 [Ver Demo / Deploy](link-a-la-web)
+* 📂 [Ver otra Rama](link-a-tu-repo) | 🌐 [Ver en la Web](link-a-la-web)
 
 ---
 
