@@ -1,0 +1,7 @@
+a=int(input('Introduce un numero entero:'))
+b=int(input('Introduce otro numero entero:'))
+print('La suma (',a,'+',b,') es:',a+b)
+print('La resta (',a,'-',b,') es:',a-b)
+print('El producto (',a,'*',b,') es:',a*b)
+print('La division (',a,'/',b,') es:',a/b)
+print('El resto o modulo (',a,'%', b,') es:',a%b)

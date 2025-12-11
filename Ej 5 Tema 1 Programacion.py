@@ -1,0 +1,6 @@
+a=float(input('Introduce un numero real:'))
+b=float(input('Introduce otro numero real:'))
+print('La suma es:',a+b)
+print('La resta es:',a-b)
+print('El producto es:',a*b)
+print('La division es:',a/b)
