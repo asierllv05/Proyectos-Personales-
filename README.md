@@ -41,7 +41,7 @@ Repositorio con scripts fundamentales y manipulación de datos. Es la base de mi
 ### 🎨 Modelado Personaje 3D
 **Herramientas:** `Blender` | `ZBrush`
 Diseño y modelado de personajes en alta calidad. Incluye el flujo de trabajo completo, desde el esculpido hasta los ModelSheets.
-* 📂 [Ver Diseños](https://github.com/asierllv05/Proyectos-Personales-/tree/Dise%C3%B1os3D)
+* 📂 [Ver Diseños](https://github.com/asierllv05/Proyectos-Personales-/tree/Modelado-Personaje-3D)
 
 ### 🤖 Bots de Automatización Procesos
 **Herramientas:** `Java` | `Python` | `API`
