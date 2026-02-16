@@ -1,59 +1,89 @@
-# ¡Hola! Soy Asier Llopis Villamayor 👋
+# ¡Hola! Soy Asier Llopis 👋 
 
-¡Bienvenido a mi portafolio personal! Aquí encontrarás una recopilación de mis proyectos personales, prácticas y experimentos técnicos. Mi objetivo es documentar mi aprendizaje y mostrar mis capacidades creando soluciones reales.
+### Fullstack Developer | 3D Designer | Automation Expert
 
----
-
-## 🚀 Sobre mí
-
-* 🌍 Vivo en **Valencia**.
-* 💻 Actualmente estoy estudiando **Tecnologia Digital y Multimedia**.
-* 🎯 Mi objetivo profesional es **Especializarme en IA y trabajar en algo relacionado a ello**.
-* 📫 Puedes contactarme en: **alv2005caragol@gmail.com**
+He transformado mi repositorio en un ecosistema donde la **potencia de JAVA** se encuentra con el **impacto visual del diseño 3D**. Especializado en crear soluciones técnicas robustas sin descuidar la estética moderna.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🚀 De un vistazo
 
-* **Lenguajes:** JavaScript, Python, Java, CSS 
-* **Frontend:**  HTML5, CSS3
-* **Herramientas:** Git, GitHub, Linux
-
----
-
-## 🏆 Proyectos Destacados
-
-Aquí están mis trabajos principales. Haz clic en el enlace para cambiar de rama donde veras los proyectos relacionados 
-
-### 1. Certificados Generales (IA, Idiomas, Cursos...)
-> **Descripción rápida:** Aqui dejo mis certificados conseguidos.
-* 📂 [Ver otra Rama](https://github.com/asierllv05/Proyectos-Personales-/tree/Certificados) | 🌐 [Ver en la Web](link-a-la-web)
-
-### 2. Programación
-> **Descripción rápida:** Archivos realizados en distintos lenguajes de Programación
-* 📂 [Ver otra Rama](link-a-tu-repo) | 🌐 [Ver en la Web](link-a-la-web)
-
-### 3. [Nombre del Proyecto 3]
-> **Descripción rápida:** Clon de la página de inicio de Netflix.
-* **Tech Stack:** HTML, CSS puro.
-* **Lo que aprendí:** Flexbox, Grid y diseño responsivo.
-* 📂 [Ver otra Rama](link-a-tu-repo) | 🌐 [Ver en la Web](link-a-la-web)
+* **Experiencia:** +3 años desarrollando proyectos técnicos y creativos.
+* **Certificaciones:** **AWS Certified Practitioner** ☁️
+* **Enfoque:** Especializado en **JAVA** para automatización y **Blender** para modelado 3D.
+* **Ubicación:** Valencia, España 🇪🇸
+* **Objetivo:** Especializarme en IA para desarrollar la próxima generación de herramientas digitales.
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🛠️ Stack Tecnológico
 
-![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+| Área | Tecnologías |
+| :--- | :--- |
+| **Programación** | `Java` `Python` `C++ (Arduino)` `MicroPython` |
+| **Frontend** | `HTML5` `CSS3 (Tailwind)` `JavaScript (ES6+)` |
+| **Diseño 3D** | `Blender` `ZBrush` |
+| **Herramientas** | `Git` `GitHub` `Linux` `AWS` |
 
 ---
 
-## 🤝 Conectemos
+## 🏆 Mis Proyectos
 
-Si te interesa mi trabajo o quieres colaborar, ¡búscame en mis redes!
+Aquí tienes un desglose detallado de mis trabajos técnicos y creativos:
 
-* [LinkedIn](Link-a-tu-linkedin)
-* [Twitter / X](Link-a-tu-twitter)
-* [Mi Web Personal](Link-a-tu-web)
+---
 
-⭐️ *Si te gusta alguno de mis proyectos, no dudes en dejar una estrella en el repositorio.*
+### 🐍 Códigos Básicos Python
+**Herramientas:** `Python` | `Pandas` | `NumPy`
+Repositorio con scripts fundamentales y manipulación de datos. Es la base de mis conocimientos en scripting y análisis.
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+
+### 🎨 Modelado Personaje 3D
+**Herramientas:** `Blender` | `ZBrush`
+Diseño y modelado de personajes en alta calidad. Incluye el flujo de trabajo completo, desde el esculpido hasta los ModelSheets.
+* 📂 [Ver Diseños](https://github.com/asierllv05/Proyectos-Personales-/tree/Dise%C3%B1os3D)
+
+### 🤖 Bots de Automatización Procesos
+**Herramientas:** `Java` | `Python` | `API`
+Desarrollo de bots especializados en la optimización de tareas repetitivas y conexión con servicios externos mediante APIs.
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+
+### 🌐 Desarrollo Web (HTML, CSS y JS)
+**Herramientas:** `HTML5` | `CSS3` | `JavaScript`
+Creación de interfaces modernas, interactivas y totalmente responsivas (incluyendo este portafolio).
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/main)
+
+### 🔌 Hardware: Arduino (C++) y MicroPython
+**Herramientas:** `Arduino` | `C++` | `MicroPython`
+Proyectos de electrónica y sistemas embebidos, controlando sensores y actuadores para soluciones físicas de IoT.
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+
+### 🏀 App JumpZ (Medidor de saltos)
+**Herramientas:** `Java` | `HTML` | `CSS` | `JavaScript`
+Mi proyecto más ambicioso hasta la fecha: una aplicación fullstack que integra lógica de programación para monitorizar el rendimiento deportivo.
+* 📂 [Ver Proyecto](https://github.com/asierllv05/Proyectos-Personales-/tree/main)
+
+### 📜 Certificados y Formación
+**Contenido:** `IA` | `AWS` | `Idiomas`
+Recopilación de mis hitos académicos y certificaciones profesionales que respaldan mis habilidades técnicas.
+* 📂 [Ver Certificados](https://github.com/asierllv05/Proyectos-Personales-/tree/Certificados)
+
+---
+
+## 📈 Mis Estadísticas
+
+![Estadísticas de Asier](https://github-readme-stats.vercel.app/api?username=asierllv05&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asierllv05&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Hablemos
+
+¿Tienes un proyecto en mente o quieres colaborar en algo increíble?
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/asier-llopis-villamayor-1744b9311/)
+* 📧 [Escríbeme un correo](mailto:alv2005caragol@gmail.com)
+* 🌐 [Mi Portafolio Web](https://asierllv05.github.io/) *(Asegúrate de que este link sea correcto)*
+
+---
+*© 2026 Asier Llopis Villamayor. Construido con pasión y código.*
