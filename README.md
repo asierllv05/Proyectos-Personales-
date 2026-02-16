@@ -36,7 +36,7 @@ Aquí tienes un desglose detallado de mis trabajos técnicos y creativos:
 ### 🐍 Códigos Básicos Python
 **Herramientas:** `Python` | `Pandas` | `NumPy`
 Repositorio con scripts fundamentales y manipulación de datos. Es la base de mis conocimientos en scripting y análisis.
-* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Python)
 
 ### 🎨 Modelado Personaje 3D
 **Herramientas:** `Blender` | `ZBrush`
@@ -70,20 +70,13 @@ Recopilación de mis hitos académicos y certificaciones profesionales que respa
 
 ---
 
-## 📈 Mis Estadísticas
-
-![Estadísticas de Asier](https://github-readme-stats.vercel.app/api?username=asierllv05&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asierllv05&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Hablemos
 
 ¿Tienes un proyecto en mente o quieres colaborar en algo increíble?
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/asier-llopis-villamayor-1744b9311/)
 * 📧 [Escríbeme un correo](mailto:alv2005caragol@gmail.com)
-* 🌐 [Mi Portafolio Web](https://asierllv05.github.io/) *(Asegúrate de que este link sea correcto)*
+* 🌐 [Mi Portafolio Web](https://asierllv05.github.io/)
 
 ---
 *© 2026 Asier Llopis Villamayor. Construido con pasión y código.*
