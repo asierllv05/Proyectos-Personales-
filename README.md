@@ -36,7 +36,7 @@ Aquí tienes un desglose detallado de mis trabajos técnicos y creativos:
 ### 🐍 Códigos Básicos Python
 **Herramientas:** `Python` | `Pandas` | `NumPy`
 Repositorio con scripts fundamentales y manipulación de datos. Es la base de mis conocimientos en scripting y análisis.
-* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Python)
 
 ### 🎨 Modelado Personaje 3D
 **Herramientas:** `Blender` | `ZBrush`
