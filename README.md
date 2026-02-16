@@ -36,32 +36,32 @@ Aquí tienes un desglose detallado de mis trabajos técnicos y creativos:
 ### 🐍 Códigos Básicos Python
 **Herramientas:** `Python` | `Pandas` | `NumPy`
 Repositorio con scripts fundamentales y manipulación de datos. Es la base de mis conocimientos en scripting y análisis.
-* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Python)
 
 ### 🎨 Modelado Personaje 3D
 **Herramientas:** `Blender` | `ZBrush`
 Diseño y modelado de personajes en alta calidad. Incluye el flujo de trabajo completo, desde el esculpido hasta los ModelSheets.
-* 📂 [Ver Diseños](https://github.com/asierllv05/Proyectos-Personales-/tree/Dise%C3%B1os3D)
+* 📂 [Ver Diseños](https://github.com/asierllv05/Proyectos-Personales-/tree/Modelado-Personaje-3D)
 
 ### 🤖 Bots de Automatización Procesos
 **Herramientas:** `Java` | `Python` | `API`
 Desarrollo de bots especializados en la optimización de tareas repetitivas y conexión con servicios externos mediante APIs.
-* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Bots-de-Automatizaci%C3%B3n-Procesos)
 
 ### 🌐 Desarrollo Web (HTML, CSS y JS)
 **Herramientas:** `HTML5` | `CSS3` | `JavaScript`
 Creación de interfaces modernas, interactivas y totalmente responsivas (incluyendo este portafolio).
-* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/main)
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Desarrollo-Web-(HTML%2C-CSS-y-JS))
 
 ### 🔌 Hardware: Arduino (C++) y MicroPython
 **Herramientas:** `Arduino` | `C++` | `MicroPython`
 Proyectos de electrónica y sistemas embebidos, controlando sensores y actuadores para soluciones físicas de IoT.
-* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Codigos-Programados)
+* 📂 [Ver Código](https://github.com/asierllv05/Proyectos-Personales-/tree/Hardware-Arduino-(C%2B%2B)-y-MicroPython)
 
 ### 🏀 App JumpZ (Medidor de saltos)
 **Herramientas:** `Java` | `HTML` | `CSS` | `JavaScript`
 Mi proyecto más ambicioso hasta la fecha: una aplicación fullstack que integra lógica de programación para monitorizar el rendimiento deportivo.
-* 📂 [Ver Proyecto](https://github.com/asierllv05/Proyectos-Personales-/tree/main)
+* 📂 [Ver Proyecto](https://github.com/asierllv05/Proyectos-Personales-/tree/App-JumpZ-(Medidor-de-saltos))
 
 ### 📜 Certificados y Formación
 **Contenido:** `IA` | `AWS` | `Idiomas`
