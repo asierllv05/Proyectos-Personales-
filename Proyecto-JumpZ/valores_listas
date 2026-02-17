@@ -1,0 +1,68 @@
+textos = [label_inicio, #0
+          label_user, #1
+          label_password, #2
+          espacio_blanco1, #3
+          label_status, #4
+          label_excel_mainmenu, #5
+          label_archivo_encontrado, #6
+          label_masa_mainmenu, #7
+          label_error_masa, #8
+          label_info, #9
+          label_info2, #10
+          texto_t0, #11
+          texto_t1, #12
+          texto_tia, #13
+          texto_altmax, #14
+          texto_amax, #15
+          texto_f, #16
+          texto_p]#17
+
+botones_imagen = [boton_iniciar_juego, #0
+                  boton_tema, #1
+                  boton_creditos, #2
+                  boton_goku, #3
+                  boton_feezer, #4
+                  boton_piccolo, #5
+                  boton_boo, #6
+                  boton_vegeta, #7
+                  boton_bulma, #8
+                  boton_claro, #9
+                  boton_oscuro, #10
+                  boton_cerrar, #11
+                  boton_cerrar_mainmenu, #12
+                  boton_volver, #13
+                  boton_volver_ld, #14
+                  boton_volver_mainmenu, #15
+                  boton_volver_cs, #16
+                  boton_iniciar_sesion, #17
+                  boton_jugaroffline, #18
+                  boton_cargarsalto, #19
+                  boton_leaderboard, #20
+                  boton_password_show, #21
+                  boton_iniciarsesion, #22
+                  boton_aceleracion, #23
+                  boton_velocidad, #24
+                  boton_fuerza, #25
+                  boton_potencia]#26
+
+botones_texto = [boton_comprobar, #0
+                 boton_cargar, #1
+                 boton_submit, #2
+                 boton_send]#3
+
+fotos = [image, #0
+         imagen_fondo, #1
+         logo, #2
+         leaderboard]#3
+
+text_boxs = [user_tb, #0
+             password_tb, #1
+             tb_excel_mainmenu, #2
+             tb_masa_mainmenu, #3
+             tb_t0, #4
+             tb_t1, #5
+             tb_tia, #6
+             tb_altmax, #7
+             tb_amax, #8
+             tb_f, #9
+             tb_p]#10
